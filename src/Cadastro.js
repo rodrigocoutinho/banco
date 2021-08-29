@@ -127,6 +127,9 @@ export default function Cadastro() {
         </div>
 
       </S.Content>
+      <S.DivButton>
+        <S.Button><h3>Enviar</h3></S.Button>
+      </S.DivButton>
 
     </>
   )

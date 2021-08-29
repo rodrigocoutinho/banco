@@ -83,6 +83,10 @@ export const Content = styled.div`
     }
 `
 
+export const DivButton = styled.div`
+    //color: blueviolet;
+    text-align: center;
+`
 
 export const Input = styled.input`
     //margin-left: 5px;
@@ -96,6 +100,24 @@ export const Input = styled.input`
         outline: none;
         box-shadow: none;
     }
+`
+export const Button = styled.button`
+    width: 15%;
+    padding: 5px 10px;
+    background:linear-gradient(to right, #4B0082 50%, blueviolet 50%);
+    background-size: 200% 100%;
+    background-position: right bottom;
+    color: #FFF;
+    border: none;
+    border-radius: 10px 10px 10px 10px;
+    cursor: pointer;
+    transition: all 300ms ease-out;
+    margin-top: 20px;
+    margin-left: -5px;
+    &:hover{
+    background-position:left bottom ;
+    color: blue;}
+    justify-items: center;
 `
 
 export const ErrorMsg = styled.span`
