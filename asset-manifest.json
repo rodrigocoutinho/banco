@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/banco/static/css/main.b84cac8b.chunk.css",
+    "main.js": "/banco/static/js/main.79d7512c.chunk.js",
+    "main.js.map": "/banco/static/js/main.79d7512c.chunk.js.map",
+    "runtime-main.js": "/banco/static/js/runtime-main.37ca97c3.js",
+    "runtime-main.js.map": "/banco/static/js/runtime-main.37ca97c3.js.map",
+    "static/js/2.58393dbf.chunk.js": "/banco/static/js/2.58393dbf.chunk.js",
+    "static/js/2.58393dbf.chunk.js.map": "/banco/static/js/2.58393dbf.chunk.js.map",
+    "index.html": "/banco/index.html",
+    "static/css/main.b84cac8b.chunk.css.map": "/banco/static/css/main.b84cac8b.chunk.css.map",
+    "static/js/2.58393dbf.chunk.js.LICENSE.txt": "/banco/static/js/2.58393dbf.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.37ca97c3.js",
+    "static/js/2.58393dbf.chunk.js",
+    "static/css/main.b84cac8b.chunk.css",
+    "static/js/main.79d7512c.chunk.js"
+  ]
+}
